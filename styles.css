@@ -1,0 +1,53 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  text-align: center;
+  padding: 20px;
+}
+
+.game-container {
+  max-width: 400px;
+  margin: auto;
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  color: #333;
+}
+
+.display {
+  margin: 20px 0;
+}
+
+#multiplier {
+  font-size: 2em;
+  color: #007bff;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 1em;
+  margin: 5px;
+  cursor: pointer;
+}
+
+#cashout {
+  background-color: #28a745;
+  color: white;
+  border: none;
+}
+
+#start-game {
+  background-color: #007bff;
+  color: white;
+  border: none;
+}
+
+#status {
+  margin-top: 20px;
+  font-size: 1.2em;
+  color: #555;
+}
